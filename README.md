@@ -34,10 +34,6 @@ This project analyzes mall customer data using Python to identify distinct custo
 * Some high income customers have low spending, indicating potential target groups
 * Spending behavior varies across different age groups
 
-## Visualization
-
-![Customer Segmentation](clustering_bivariate.png)
-
 ## Recommendations
 
 * Target high income low spending customers with personalized offers
